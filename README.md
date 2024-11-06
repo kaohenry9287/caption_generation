@@ -1,0 +1,2 @@
+# caption_generation
+Develop an Image Caption Generator that automatically generates descriptive captions for images by combining the visual understanding of CNN with the sequence modeling capability of RNN
